@@ -1,0 +1,21 @@
+body{
+    color: black;
+}
+
+.title{
+    color:red;
+    text-align: left;
+    margin-left: 24px;
+    font-size: 32px;
+}
+
+nav{
+    display: flex;
+    justify-content: right;
+    margin-right: 24px;
+
+
+}
+#where{
+    margin: 0 16px;
+}
